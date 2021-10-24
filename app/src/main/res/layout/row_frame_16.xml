@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="frame16RowModel" type="com.solnet.app.modules.frame15.data.model.Frame16RowModel"/>
+    </data>
+    <FrameLayout android:id="@+id/frame"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" style="@style/groupStylecornerRadius_1">
+        <ImageView android:id="@+id/image"
+            android:layout_gravity="center"
+            android:layout_height="@dimen/_50pxv"
+            android:layout_marginHorizontal="@dimen/_5pxh"
+            android:layout_marginVertical="@dimen/_5pxv"
+            android:layout_width="@dimen/_50pxh"
+            android:scaleType="centerCrop" circular="@{true}"
+            imageRes="@{@drawable/img_pexelschristiandiokno3841338_1}" tools:src="@drawable/img_pexelschristiandiokno3841338_1"/>
+    </FrameLayout>
+</layout>

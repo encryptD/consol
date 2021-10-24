@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<color name="cyan_A400">#00f0ff</color>
+<color name="white_A700_7f">#7fffffff</color>
+<color name="cyan_A400_a3">#a300f0ff</color>
+<color name="white_A700_5e">#5effffff</color>
+<color name="black_900_5e">#5e000000</color>
+<color name="deep_purple_200_7f">#7fb89ef2</color>
+<color name="deep_purple_500">#6e40d9</color>
+<color name="deep_purple_500_99">#996e40d9</color>
+<color name="gray_400_19">#19c4c4c4</color>
+<color name="black_900">#000000</color>
+<color name="black_900_40">#40000000</color>
+<color name="gray_400_75">#75c4c4c4</color>
+<color name="white_A700_19">#19ffffff</color>
+<color name="deep_purple_A400">#7533e3</color>
+<color name="purple_A200">#f030e8</color>
+<color name="black_900_26">#26000000</color>
+<color name="gray_400">#c4c4c4</color>
+<color name="deep_purple_500_a6">#a66e40d9</color>
+<color name="gray_200">#ededed</color>
+<color name="black_900_4f">#4f000000</color>
+<color name="bluegray_900">#2b2b2b</color>
+<color name="white_A700_66">#66ffffff</color>
+<color name="deep_purple_50">#f2edff</color>
+<color name="deep_purple_500_00">#006e40d9</color>
+<color name="black_900_33">#33000000</color>
+<color name="bluegray_400">#888888</color>
+<color name="white_A700">#ffffff</color>
+<color name="black_900_59">#59000000</color>
+<color name="ic_launcher_background">#FFFFFF</color>
+</resources>

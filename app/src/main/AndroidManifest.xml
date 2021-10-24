@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest package="com.solnet.app" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name" android:largeHeap="true"
+        android:name="com.solnet.app.appcomponents.di.MyApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true" android:theme="@style/Theme.MyApp" android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.solnet.app.modules.appnavigation.ui.AppNavigationActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.solnet.app.modules.frame27.ui.Frame27Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame19.ui.Frame19Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame28.ui.Frame28Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame18.ui.Frame18Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame15.ui.Frame15Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame17.ui.Frame17Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.splash.ui.SplashActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame20.ui.Frame20Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame29.ui.Frame29Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame2.ui.Frame2Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.solnet.app.modules.frame14.ui.Frame14Activity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

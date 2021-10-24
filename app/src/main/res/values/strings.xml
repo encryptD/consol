@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Solnet</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_jane_foster">Jane Foster</string>
+<string name="lbl_joeychang">joeychang</string>
+<string name="lbl_mint_standard">Mint Standard</string>
+<string name="lbl_buy">Buy</string>
+<string name="lbl_sln_sol">SLN-SOL</string>
+<string name="lbl_no">NO</string>
+<string name="lbl_transactions">Transactions</string>
+<string name="lbl4">=</string>
+<string name="lbl5">=</string>
+<string name="lbl2">=</string>
+<string name="lbl3">=</string>
+<string name="msg_and_yeah_k_roc">And yeah, k.rocha’s new release is awesome!
+I’m planing to buy that one too!</string>
+<string name="lbl_description">Description</string>
+<string name="msg_i_m_planning_to">I’m planning to buy his new one. Btw, I still
+owe you 12.36 SOL, right? Let me settle it now.</string>
+<string name="msg_there_you_go_t">There you go! Thanks for waiting, man. Btw,
+you got a nice collection of NFTs there!</string>
+<string name="lbl_27_342_617">$27,342,617</string>
+<string name="lbl_add_token">Add Token</string>
+<string name="lbl_volume_24hrs">Volume
+(24hrs)</string>
+<string name="lbl_380_usdt">380 USDT</string>
+<string name="lbl_created_by">Created by</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="lbl_janefoster2">\@janefoster</string>
+<string name="lbl_volume_7d">Volume
+(7d)</string>
+<string name="lbl_active_1m_ago">Active 1m ago</string>
+<string name="lbl_16_208_sol">16.208 SOL</string>
+<string name="msg_http_solaire">http://solaire.network</string>
+<string name="lbl_sln_sol_lp">SLN-SOL LP</string>
+<string name="lbl_scott_blade">Scott Blade</string>
+<string name="msg_hey_there_fran">Hey there, Francis!</string>
+<string name="lbl_sln_usdt_lp">SLN-USDT LP</string>
+<string name="lbl_notifications">Notifications</string>
+<string name="msg_painting_x_real">Painting x Reality</string>
+<string name="lbl_215_usdt">215 USDT</string>
+<string name="lbl_10_12_pm">10:12 PM</string>
+<string name="lbl_farms">Farms</string>
+<string name="lbl_price">Price*</string>
+<string name="lbl_23s">23s</string>
+<string name="lbl_forgot">Forgot?</string>
+<string name="lbl_73_76">73.76%</string>
+<string name="lbl_810">810</string>
+<string name="lbl_597_10272">$597.10272</string>
+<string name="lbl_janefoster">janefoster</string>
+<string name="lbl_edit_profile">Edit Profile</string>
+<string name="lbl_amount_of_nfts">Amount of NFTs*</string>
+<string name="lbl_k_rocha">k.rocha</string>
+<string name="lbl_19m">19m</string>
+<string name="lbl_francis_snow8">francis.snow</string>
+<string name="lbl_srm_usdc">SRM-USDC</string>
+<string name="lbl_francis_snow7">francis.snow</string>
+<string name="msg_oh_almost_forg">Oh. Almost forgot about it. Thanks Jane!</string>
+<string name="lbl_6_sol">6 SOL</string>
+<string name="lbl_francis_snow9">francis.snow</string>
+<string name="lbl_pending_reward">PENDING
+REWARD</string>
+<string name="lbl_frame_14">Frame 14</string>
+<string name="lbl_network">Network*</string>
+<string name="lbl_frame_15">Frame 15</string>
+<string name="lbl_fees_24hr">Fees
+(24hr)</string>
+<string name="lbl_francis_snow">Francis Snow</string>
+<string name="lbl_74_36">74.36%</string>
+<string name="lbl_active_5m_ago">Active 5m ago</string>
+<string name="msg_the_thinking_ma">The Thinking Man</string>
+<string name="lbl_francisnft_io">francisnft.io</string>
+<string name="lbl_9_sol">9 SOL</string>
+<string name="lbl_seen_20m_ago">Seen 20m ago</string>
+<string name="lbl_apr">APR</string>
+<string name="lbl_owned_by">Owned by</string>
+<string name="lbl_470_usdt">470 USDT</string>
+<string name="lbl_followers">Followers</string>
+<string name="lbl_49_86">49.86%</string>
+<string name="lbl_frame_21">Frame 21</string>
+<string name="msg_check_your_app">Check your app\'s UI from the below demo screens of your app.</string>
+<string name="lbl_frame_22">Frame 22</string>
+<string name="msg_issa_girl_sent">issa_girl sent you 5.23 SOL.</string>
+<string name="lbl_0x71c_c8976f">0x71C...C8976F</string>
+<string name="lbl_frame_20">Frame 20</string>
+<string name="lbl_frame_26">Frame 26</string>
+<string name="lbl_kris_rocha">Kris Rocha</string>
+<string name="lbl_frame_18">Frame 18</string>
+<string name="lbl_upload_image">Upload Image</string>
+<string name="lbl_frame_19">Frame 19</string>
+<string name="lbl_fida_sln">FIDA-SLN</string>
+<string name="lbl_frame_16">Frame 16</string>
+<string name="lbl_frame_17">Frame 17</string>
+<string name="msg_janefoster_sent">janefoster sent you 12.36 SOL.</string>
+<string name="msg_joined_june_202">Joined June 2021</string>
+<string name="lbl_collection">Collection</string>
+<string name="msg_yup_that_s_awe">Yup! That’s awesome!</string>
+<string name="lbl_21m">21m</string>
+<string name="lbl_joey_chang">Joey Chang</string>
+<string name="lbl_price3">Price</string>
+<string name="lbl_translucent_box">Translucent Box</string>
+<string name="lbl_likes">Likes</string>
+<string name="lbl_assets">Assets</string>
+<string name="lbl_price2">Price</string>
+<string name="lbl_solaire_pools">Solaire Pools</string>
+<string name="lbl_frame_2">Frame 2</string>
+<string name="lbl_price7">Price</string>
+<string name="msg_scott_commente">scott_ commented “awesome
+shot bro” your post.</string>
+<string name="lbl_price6">Price</string>
+<string name="lbl_price5">Price</string>
+<string name="lbl_price4">Price</string>
+<string name="lbl_price9">Price</string>
+<string name="lbl_price8">Price</string>
+<string name="lbl_5_92">5.92%</string>
+<string name="lbl_bethany_waters">Bethany Waters</string>
+<string name="msg_joeychang_is_fo">joeychang is following you now.</string>
+<string name="lbl_active_9m_ago">Active 9m ago</string>
+<string name="msg_surreal_lights">“Surreal Lights” now available on Solaire Marketplace. You can now buy it or place a bid on the platform.
+
+Thanks for your support!</string>
+<string name="lbl_convert">Convert</string>
+<string name="lbl_francis_snow10">francis.snow</string>
+<string name="lbl_solaire_network">Solaire Network</string>
+<string name="lbl_june_29">June 29</string>
+<string name="lbl_log_in">Log in</string>
+<string name="lbl_sln_usdc">SLN-USDC</string>
+<string name="lbl_today">Today</string>
+<string name="lbl_active_15m_ago">Active 15m ago</string>
+<string name="lbl_sln_srm">SLN-SRM</string>
+<string name="msg_have_you_heard">Have you heard about k.rocha’s new NFT?</string>
+<string name="lbl_yes">YES</string>
+<string name="lbl_sln_srm_lp">SLN-SRM LP</string>
+<string name="lbl_posts">Posts</string>
+<string name="lbl_groups">Groups</string>
+<string name="lbl_1_59_am">1:59 AM</string>
+<string name="lbl_about_contact">ABOUT | CONTACT</string>
+<string name="lbl_send">Send</string>
+<string name="lbl_sln_usdt">SLN-USDT</string>
+<string name="lbl_surreal_lights">Surreal Lights</string>
+<string name="lbl_name">Name*</string>
+<string name="lbl_francis_snow2">\@francis.snow</string>
+<string name="lbl_buy_now">Buy Now</string>
+<string name="lbl_1_423">1,423</string>
+<string name="lbl_quantity">Quantity*</string>
+<string name="lbl_francis_snow4">\@francis.snow</string>
+<string name="msg_create_an_accou">Create an account</string>
+<string name="lbl_francis_snow3">\@francis.snow</string>
+<string name="lbl_name2">Name</string>
+<string name="lbl_francis_snow6">francis.snow</string>
+<string name="lbl_francis_snow5">francis.snow</string>
+<string name="lbl">********</string>
+<string name="lbl_15m">15m</string>
+<string name="lbl_staked">STAKED</string>
+<string name="lbl_8m">8m</string>
+<string name="lbl_liquidity2">Liquidity</string>
+<string name="msg_permissionless">Permissionless Pools</string>
+<string name="msg_k_rocha_liked_y">k.rocha liked your post.</string>
+<string name="lbl_scott">scott_</string>
+<string name="lbl_27m">27m</string>
+<string name="lbl_search">Search</string>
+<string name="lbl_0">0</string>
+<string name="lbl_nft">NFT</string>
+<string name="msg_megancha_liked">megancha liked your post.</string>
+<string name="msg_mentions_repl">Mentions &amp; Replies</string>
+<string name="msg_joeychang_comme">joeychang commented “how
+much for this?” on your post.</string>
+<string name="lbl_sln_usdc_lp">SLN-USDC LP</string>
+<string name="lbl_567">567</string>
+<string name="lbl_liquidity">LIQUIDITY</string>
+<string name="lbl_lp_pools">LP Pools</string>
+<string name="lbl_seen_15m_ago">Seen 15m ago</string>
+<string name="lbl_marketplace">Marketplace</string>
+<string name="lbl_sln_eth_lp">SLN-ETH LP</string>
+<string name="lbl_75_42">75.42%</string>
+<string name="lbl_200_usdt">200 USDT</string>
+<string name="lbl_all">All</string>
+<string name="lbl_following">Following</string>
+<string name="lbl_5m">5m</string>
+<string name="lbl_5_65_sol">5.65 SOL</string>
+<string name="lbl_319">319</string>
+<string name="lbl_oxy_sln">OXY-SLN</string>
+<string name="lbl_media_eth">MEDIA-ETH</string>
+<string name="lbl_melissa_andre">Melissa Andre</string>
+<string name="msg_an_independent">An independent artist whose all in for solemnity. A man of his words. Loves to take pictures of beautiful aesthetic sceneries. Living in the DeFi world full of NFTs.</string>
+<string name="msg_hey_jane_what">Hey Jane. What’s up?</string>
+<string name="msg_list_on_marketp">List On Marketplace</string>
+<string name="lbl_dapps">dApps</string>
+<string name="lbl_6_29_21">6/29/21</string>
+<string name="lbl_71_73">71.73%</string>
+<string name="lbl_megan_charlotte">Megan Charlotte</string>
+<string name="msg_1y_fees_liquid">1y Fees/
+Liquidity</string>
+<string name="lbl_sln_eth">SLN-ETH</string>
+<string name="lbl_12_36_sol">12.36 SOL</string>
+<string name="lbl_type">Type*</string>
+</resources>

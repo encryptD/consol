@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="btnSolidRounded_4" parent="btnSolidRounded_5">
+        <item name="android:textSize">@dimen/_6pxh</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_radius_5</item>
+    </style>
+    <style name="btnSolidRounded_3" parent="btnSolidRoundedOutline">
+        <item name="android:textSize">@dimen/_16pxh</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_50_radius_10</item>
+    </style>
+    <style name="btnSolidRounded_2" parent="btnSolidRounded_5">
+        <item name="android:textSize">@dimen/_16pxh</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_200_7f_radius_10</item>
+    </style>
+    <style name="btnSolidRounded_1" parent="btnSolidRounded">
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_radius_10</item>
+    </style>
+    <style name="groupStylecornerRadius">
+        <item name="android:background">@drawable/rectangle_border_gray_400_radius_30</item>
+    </style>
+    <style name="txtPoppinsmedium6_1" parent="txtPoppinsmedium6">
+        <item name="android:textColor">@color/deep_purple_500</item>
+    </style>
+    <style name="btnSolidRounded_5" parent="btnSolidRoundedOutline_4">
+        <item name="android:textSize">@dimen/_5pxh</item>
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_radius_5</item>
+    </style>
+    <style name="etSolidRounded_1" parent="etSolidRounded">
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="android:background">@drawable/rectangle_bg_white_a700_66_radius_10</item>
+    </style>
+    <style name="txtPoppinssemibold18" parent="txtPoppinssemibold14_2">
+        <item name="android:textSize">@dimen/_18pxh</item>
+        <item name="android:textColor">@color/black_900</item>
+    </style>
+    <style name="txtPoppinssemibold14" parent="txtPoppinssemibold18_2">
+        <item name="android:textSize">@dimen/_14pxh</item>
+    </style>
+    <style name="txtPoppinsmedium12" parent="txtPoppinsmedium5">
+        <item name="android:textSize">@dimen/_12pxh</item>
+    </style>
+    <style name="groupStyledeep_purple_A400">
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_a400</item>
+    </style>
+    <style name="txtPoppinsregular14" parent="txtPoppinssemibold14_2">
+        <item name="android:textFontWeight">400</item>
+    </style>
+    <style name="txtPoppinssemibold16" parent="txtPoppinssemibold14_2">
+        <item name="android:textSize">@dimen/_16pxh</item>
+    </style>
+    <style name="txtPoppinsmedium14" parent="txtPoppinssemibold14_2">
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="txtPoppinssemibold10" parent="txtPoppinssemibold18_1">
+        <item name="android:textSize">@dimen/_10pxh</item>
+    </style>
+    <style name="groupStyledeep_purple_500">
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500</item>
+    </style>
+    <style name="txtPoppinssemibold12" parent="txtPoppinssemibold14_2">
+        <item name="android:textSize">@dimen/_12pxh</item>
+    </style>
+    <style name="btnSolidRoundedOutline">
+        <item name="android:textSize">@dimen/_10pxh</item>
+        <item name="android:textColor">@color/deep_purple_500</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="android:background">@drawable/rectangle_bg_white_a700_border_deep_purple_500_radius_68</item>
+    </style>
+    <style name="groupStylewhite_A700">
+        <item name="android:background">@drawable/rectangle_bg_white_a700</item>
+    </style>
+    <style name="txtPoppinsmedium10" parent="txtPoppinssemibold10">
+        <item name="android:textColor">@color/deep_purple_500</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="etSolidRounded">
+        <item name="android:textSize">@dimen/_14pxh</item>
+        <item name="android:textColor">@color/bluegray_900</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:background">@drawable/rectangle_bg_gray_200_radius_10</item>
+    </style>
+    <style name="groupStylecornerRadius_3">
+        <item name="android:background">@drawable/rectangle_gradient_s_cyan_a400_a3_c_purple_a200_e_deep_purple_500_radius_35_5</item>
+    </style>
+    <style name="groupStylecornerRadius_2">
+        <item name="android:background">@drawable/rectangle_radius_28</item>
+    </style>
+    <style name="groupStylewhite_A700_66">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_66</item>
+    </style>
+    <style name="btnSolidRounded">
+        <item name="android:textSize">@dimen/_12pxh</item>
+        <item name="android:textColor">@color/bluegray_900</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:background">@drawable/rectangle_bg_white_a700_radius_10</item>
+    </style>
+    <style name="groupStylecornerRadius_5">
+        <item name="android:background">@drawable/rectangle_border_deep_purple_500_radius_68</item>
+    </style>
+    <style name="groupStyledeep_purple_500cornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_radius_26_5</item>
+    </style>
+    <style name="groupStylecornerRadius_4">
+        <item name="android:background">@drawable/rectangle_border_white_a700_radius_24</item>
+    </style>
+    <style name="txtPoppinsregular12" parent="txtPoppinsregular10">
+        <item name="android:textSize">@dimen/_12pxh</item>
+    </style>
+    <style name="txtPoppinsregular10" parent="txtPoppinssemibold14_2">
+        <item name="android:textSize">@dimen/_10pxh</item>
+        <item name="android:textFontWeight">400</item>
+    </style>
+    <style name="groupStylecornerRadius_1">
+        <item name="android:background">@drawable/rectangle_radius_30</item>
+    </style>
+    <style name="groupStylegray_200">
+        <item name="android:background">@drawable/rectangle_bg_gray_200</item>
+    </style>
+    <style name="txtPoppinsmedium7" parent="txtPoppinsmedium7_1">
+        <item name="android:textColor">@color/cyan_A400</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="groupStylewhite_1">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_radius_28</item>
+    </style>
+    <style name="txtPoppinsmedium6" parent="txtPoppinsmedium5">
+        <item name="android:textSize">@dimen/_6pxh</item>
+    </style>
+    <style name="txtPoppinsmedium5" parent="txtPoppinssemibold14_2">
+        <item name="android:textSize">@dimen/_5pxh</item>
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="groupStylewhite_3">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_radius_15</item>
+    </style>
+    <style name="groupStylewhite_2">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_border_deep_purple_500_radius_69</item>
+    </style>
+    <style name="etSolidRoundedOutline" parent="etSolidRounded">
+        <item name="android:textSize">@dimen/_10pxh</item>
+        <item name="android:background">@drawable/rectangle_bg_white_a700_border_deep_purple_500_radius_20</item>
+    </style>
+    <style name="groupStylegray_400_75">
+        <item name="android:background">@drawable/rectangle_bg_gray_400_75</item>
+    </style>
+    <style name="txtPoppinsmedium9" parent="txtPoppinsmedium10_2">
+        <item name="android:textSize">@dimen/_9pxh</item>
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+    <style name="groupStyle">
+        <item name="android:background">@drawable/rectangle_gradient_s_deep_purple_500_c_deep_purple_500_a6_e_deep_purple_500_00</item>
+    </style>
+    <style name="txtPoppinssemibold22" parent="txtPoppinssemibold18">
+        <item name="android:textSize">@dimen/_22pxh</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">600</item>
+    </style>
+    <style name="txtSolidRoundedOutline" parent="txtPoppinsregular10">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_border_deep_purple_500_radius_69</item>
+    </style>
+    <style name="txtSolidRounded" parent="txtPoppinsregular12">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_radius_10</item>
+    </style>
+    <style name="btnSolidRoundedOutline_1" parent="btnSolidRoundedOutline">
+        <item name="android:textSize">@dimen/_14pxh</item>
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:background">@drawable/rectangle_bg_gray_400_19_border_white_a700_19_radius_10</item>
+    </style>
+    <style name="btnSolidRoundedOutline_2" parent="btnSolidRoundedOutline">
+        <item name="android:textSize">@dimen/_14pxh</item>
+    </style>
+    <style name="txtArialmt14" parent="txtPoppinsregular14">
+        <item name="android:fontFamily">@font/arial</item>
+    </style>
+    <style name="txtPoppinsmedium5_1" parent="txtPoppinsmedium5">
+        <item name="android:textColor">@color/deep_purple_500</item>
+    </style>
+    <style name="txtPoppinsmedium7_2" parent="txtPoppinsmedium7">
+        <item name="android:textColor">@color/deep_purple_500</item>
+    </style>
+    <style name="btnSolidRoundedOutline_3" parent="btnSolidRounded_5">
+        <item name="android:textSize">@dimen/_7pxh</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_border_deep_purple_500_radius_68</item>
+    </style>
+    <style name="txtPoppinsmedium9_1" parent="txtPoppinsmedium9">
+        <item name="android:textColor">@color/bluegray_900</item>
+    </style>
+    <style name="txtPoppinsmedium7_3" parent="txtPoppinsmedium5">
+        <item name="android:textSize">@dimen/_7pxh</item>
+    </style>
+    <style name="btnSolidRoundedOutline_4" parent="btnSolidRoundedOutline_1">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_border_deep_purple_500_radius_69</item>
+    </style>
+    <style name="txtPoppinsmedium7_1" parent="txtPoppinsmedium9">
+        <item name="android:textSize">@dimen/_7pxh</item>
+    </style>
+    <style name="txtPoppinsmedium14_2" parent="txtPoppinssemibold14_1">
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="etSolidRoundedOutline_1" parent="etSolidRounded">
+        <item name="android:fontFamily">@font/arial</item>
+        <item name="android:background">@drawable/rectangle_bg_white_a700_border_white_a700_radius_15</item>
+    </style>
+    <style name="groupStylewhite_A700_7fcornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_7f_radius_35_5</item>
+    </style>
+    <style name="txtPoppinsmedium14_1" parent="txtPoppinsmedium9">
+        <item name="android:textSize">@dimen/_14pxh</item>
+    </style>
+    <style name="txtPoppinsmedium10_2" parent="txtPoppinssemibold18_2">
+        <item name="android:textSize">@dimen/_10pxh</item>
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="txtPoppinssemibold36" parent="txtPoppinssemibold18_2">
+        <item name="android:textSize">@dimen/_36pxh</item>
+    </style>
+    <style name="txtregular20">
+        <item name="android:textSize">@dimen/_20pxh</item>
+        <item name="android:textColor">@color/black_900</item>
+        <item name="android:textFontWeight">400</item>
+    </style>
+    <style name="txtPoppinsmedium10_1" parent="txtPoppinsmedium5">
+        <item name="android:textSize">@dimen/_10pxh</item>
+    </style>
+    <style name="groupStylewhite_A700_5ecornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_5e_border_black_900_5e_radius_15</item>
+    </style>
+    <style name="txtregular16">
+        <item name="android:textSize">@dimen/_16pxh</item>
+        <item name="android:textColor">@color/bluegray_400</item>
+        <item name="android:textFontWeight">400</item>
+    </style>
+    <style name="txtPoppinssemibold9" parent="txtPoppinssemibold14_2">
+        <item name="android:textSize">@dimen/_9pxh</item>
+    </style>
+    <style name="txtPoppinssemibold8" parent="txtPoppinssemibold18_1">
+        <item name="android:textSize">@dimen/_8pxh</item>
+    </style>
+    <style name="groupStyledeep_purple_1">
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_radius_33</item>
+    </style>
+    <style name="groupStylewhite_A700cornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_radius_29</item>
+    </style>
+    <style name="groupStyleblack_900">
+        <item name="android:background">@drawable/rectangle_bg_black_900</item>
+    </style>
+    <style name="btnRoundedOutline" parent="btnSolidRoundedOutline">
+        <item name="android:textSize">@dimen/_6pxh</item>
+        <item name="android:background">@drawable/rectangle_border_deep_purple_500_radius_5</item>
+    </style>
+    <style name="txtPoppinssemibold14_1">
+        <item name="android:textSize">@dimen/_14pxh</item>
+        <item name="android:textColor">@color/deep_purple_500</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">600</item>
+    </style>
+    <style name="groupStyledeep_purple_2">
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_border_deep_purple_500_radius_68</item>
+    </style>
+    <style name="txtPoppinssemibold12_1" parent="txtPoppinssemibold18_2">
+        <item name="android:textSize">@dimen/_12pxh</item>
+    </style>
+    <style name="groupStyledeep_purple_3">
+        <item name="android:background">@drawable/rectangle_bg_deep_purple_500_radius_20</item>
+    </style>
+    <style name="txtPoppinssemibold18_1" parent="txtPoppinssemibold22">
+        <item name="android:textSize">@dimen/_18pxh</item>
+        <item name="android:textColor">@color/deep_purple_500</item>
+    </style>
+    <style name="txtPoppinssemibold14_2" parent="txtPoppinssemibold14_1">
+        <item name="android:textColor">@color/bluegray_900</item>
+    </style>
+    <style name="txtPoppinssemibold18_2" parent="txtPoppinssemibold18_1">
+        <item name="android:textColor">@color/white_A700</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textFontWeight">600</item>
+    </style>
+</resources>
